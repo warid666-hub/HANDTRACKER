@@ -34,4 +34,4 @@ The project detects hands through a webcam, tracks hand landmarks, counts finger
 
 
 
-## 📂 Project Structure
+
