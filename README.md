@@ -29,8 +29,8 @@ The project detects hands through a webcam, tracks hand landmarks, counts finger
 
 
 ## AUTHOR 
-   M WARID ALI
-   ARTIFICIAL INTELLIGENCE STUDENT
+  - M WARID ALI
+  - ARTIFICIAL INTELLIGENCE STUDENT
 
 
 
